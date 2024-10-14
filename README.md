@@ -13,6 +13,8 @@ My work in technology has led me to develop a passion for many different project
 
 ## Skills
 [Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
+<br>
+https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -67,5 +69,5 @@ My work in technology has led me to develop a passion for many different project
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/benjaminrhodes/Dection-Lab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
