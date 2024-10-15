@@ -25,6 +25,12 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+
+## Try Hack me | Hack the Box
+- <a href="https://tryhackme.com/r/p/slimeyskeleton">My Try Hack me Profile</a>
+- <a href="">My Hack the Box Profile</a>
+
+
 ## Tools
 
 ### 
@@ -68,6 +74,4 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 <img src="https://img.shields.io/badge/-Lean_Six_Sigma_Yellow_Belt-FDD835?&style=for-the-badge&logo=LeanSixSigma&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/benjaminrhodes/Dection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Project
+
