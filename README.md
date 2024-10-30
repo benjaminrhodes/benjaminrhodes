@@ -28,7 +28,7 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 
 ## Try Hack me | Hack the Box
 - <a href="https://tryhackme.com/r/p/slimeyskeleton">My Try Hack me Profile</a>
-- <a href="">My Hack the Box Profile</a>
+- <a href="https://academy.hackthebox.com/achievement/badge/">My Hack the Box Profile</a>
 
 
 ## Tools
