@@ -1,4 +1,3 @@
-## Howdy! 🤠
 # Hello, I'm Ben
 
 I am a former Army Veteran interested in technology and helping others.🤝<br>
@@ -21,7 +20,7 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/benjaminrhodes/Dection-Lab/blob/main/README.md">Detection Lab</a>|
+| Virtualization           | <a href="https://github.com/benjaminrhodes/windows-virtual-machine-set-up">Windows Virtual Machine Set up</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -71,6 +70,7 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_IT_Support-007BFF?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Lean_Six_Sigma_Yellow_Belt-FDD835?&style=for-the-badge&logo=LeanSixSigma&logoColor=white" />
+<img src="" /> TCM SEC new certification
 </div>
 
 
