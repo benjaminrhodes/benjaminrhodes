@@ -20,7 +20,7 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Virtualization           | <a href="https://github.com/benjaminrhodes/windows-virtual-machine-set-up">Windows Virtual Machine Set up</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Virtualization           | <a href="https://github.com/benjaminrhodes/ubuntu-vm-setup/tree/main">Ubuntu Virtual Machine setup</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
