@@ -3,9 +3,8 @@
 I am a former Army Veteran interested in technology and helping others.🤝<br>
 <br>
 <a href="https://www.linkedin.com/in/benjamin-k-rhodes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://academy.hackthebox.com/achievement/badge/16c4d966-96fb-11ef-864f-bea50ffe6cb4"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 <a href="https://tryhackme.com/r/p/slimeyskeleton"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-
+<!--<a href="https://academy.hackthebox.com/achievement/badge/16c4d966-96fb-11ef-864f-bea50ffe6cb4"><img src="https://img.shields.io/badge/-HackTheBox-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" /></a> -->
 ## Objective
 
 My objective 
