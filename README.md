@@ -12,20 +12,29 @@ My objective
 
 My work in technology has led me to develop a passion for many different projects. I am glad to be in Cybersecurity, specifically aiming to join a Security Operations Center (SOC) as a Tier 2 Analyst.
 
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_IT_Support-007BFF?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Lean_Six_Sigma_Yellow_Belt-FDD835?&style=for-the-badge&logo=LeanSixSigma&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCM-FF0000?&style=for-the-badge&logoColor=white" /> 
+</div>
+
 ## Skills
-[Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
+<!--
 <br>
 https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
+-->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Virtualization           | <a href="https://github.com/benjaminrhodes/windows-virtual-machine-set-up">Windows Virtual Machine Set up</a>|
 | Linux Virtualization           | <a href="https://github.com/benjaminrhodes/ubuntu-vm-setup/tree/main">Ubuntu Virtual Machine setup</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+More incoming!
 
 
 ## Tools
@@ -61,15 +70,6 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
     <img src="https://img.shields.io/badge/-KnowBe4-007BFF?&style=for-the-badge&logo=KnowBe4&logoColor=white" />
 </div>
 
-## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA_CYSA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_IT_Support-007BFF?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Lean_Six_Sigma_Yellow_Belt-FDD835?&style=for-the-badge&logo=LeanSixSigma&logoColor=white" />
-<img src="" /> TCM SEC new certification
-</div>
 
 
