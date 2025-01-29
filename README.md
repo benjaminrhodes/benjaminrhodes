@@ -32,7 +32,9 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Virtualization           | <a href="https://github.com/benjaminrhodes/windows-virtual-machine-set-up">Windows Virtual Machine Set up</a>|
-| Linux Virtualization           | <a href="https://github.com/benjaminrhodes/ubuntu-vm-setup/tree/main">Ubuntu Virtual Machine setup</a>|
+| Linux Virtualization             | <a href="https://github.com/benjaminrhodes/ubuntu-vm-setup/tree/main">Ubuntu Virtual Machine setup</a>|
+|Vulnerability Management          | <a href="_____">Vulnerability Management Program Implementation</a>|
+|Vulnerability Management          | <a href="_____">Vulnerability Management Program Implementation</a>|
 
 More incoming!
 
