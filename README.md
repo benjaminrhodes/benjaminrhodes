@@ -31,10 +31,11 @@ https://youtu.be/zc7LTa9q2nI?si=W8WFgW_xOIgjSWdQ - ideas for projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Virtualization           | <a href="https://github.com/benjaminrhodes/windows-virtual-machine-set-up">Windows Virtual Machine Set up</a>|
-| Linux Virtualization             | <a href="https://github.com/benjaminrhodes/ubuntu-vm-setup/tree/main">Ubuntu Virtual Machine setup</a>|
-|Vulnerability Management          | <a href="_____">Vulnerability Management Program Implementation</a>|
-|Vulnerability Management          | <a href="_____">Vulnerability Management Program Implementation</a>|
+|🪟 Windows Virtualization                       | <a href="https://github.com/benjaminrhodes/windows-virtual-machine-set-up">Windows Virtual Machine Set up</a>|
+|🐧Linux Virtualization                         | <a href="https://github.com/benjaminrhodes/ubuntu-vm-setup/tree/main">Ubuntu Virtual Machine setup</a>|
+|⚠️ Vulnerability Management                      | <a href="https://github.com/benjaminrhodes/Vulnerability-Management">Vulnerability Management Program Implementation</a>|
+|⚠️ Programmatic Vulnerability Remediations       | <a href="https://github.com/benjaminrhodes/programmatic-vulnerability-remediations">Vulnerability Management Program Implementation</a>|
+|🚨Threat Hunting Sceneario                      | <a href="https://github.com/benjaminrhodes/threat-hunting-scenario-tor/edit/main/README.md">Threat Hunting sceneario</a>|
 
 More incoming!
 
