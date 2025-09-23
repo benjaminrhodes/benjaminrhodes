@@ -17,7 +17,7 @@ I am a former Army Veteran interested in technology and helping others.🤝<br>
 <img src="https://img.shields.io/badge/-Lean_Six_Sigma_Yellow_Belt-FDD835?&style=for-the-badge&logo=LeanSixSigma&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCM_Sec-FF0000?&style=for-the-badge&logoColor=white" /> 
 </div>
-
+<div>Certifications available upon request</div>
 ## Skills
 <!--
 <br>
